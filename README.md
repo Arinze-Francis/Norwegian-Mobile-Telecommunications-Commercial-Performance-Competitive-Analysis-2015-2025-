@@ -3,8 +3,8 @@
 
 **Using Python notebook** in Fabric, the goal of the analysis is to analyze and understand:  
 1. Who is winning in the Norwegian telecom market?
-2. 2. What is driving their performance?
-   3. 3. Where are the commercial risks?
+2. What is driving their performance?
+3. Where are the commercial risks?
 
 
 The commercial questions to answer are:
